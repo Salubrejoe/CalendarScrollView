@@ -69,4 +69,4 @@ Each model exposes `startDate`, `endDate`, and a human-readable `description`, s
 
 ## License
 
-No license file is currently included. Add one if you intend others to reuse this code.
+Released under the [MIT License](LICENSE).
